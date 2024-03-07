@@ -1,1 +1,3 @@
-# ticket-bot
+# https://discord.gg/altyapitr
+
+@shrokes
