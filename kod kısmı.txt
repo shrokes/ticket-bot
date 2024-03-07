@@ -1,0 +1,2 @@
+"npm i discord.js chalk@3.0.0 moment"
+bu kodu terminal'e giriniz ve başlatınız.
